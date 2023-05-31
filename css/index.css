@@ -1,0 +1,45 @@
+body{
+  text-align: center;
+  font-family: cursive;
+  background: grey;
+  color: white;
+}
+input{
+  padding: 6px;
+  width: 400px;
+  font-family: cursive;
+  background: transparent;
+  border: 3px solid white;
+  color: white;
+  border-radius: 10px;
+  font-size: 12pt;
+}
+input:hover{
+  cursor: pointer;
+}
+button{
+  padding: 10px;
+  font-family: cursive;
+  width: 150px;
+  background: white;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+button:hover{
+  background: green;
+  border: 2px solid white;
+  color: white;
+}
+table{
+  background: black;
+  color: white;
+}
+a:hover{
+  color: white;
+}
+h4{
+  position: relative;
+  top: 10px;
+  left: 100px;
+  width: 300px;
+}
